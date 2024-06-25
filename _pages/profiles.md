@@ -15,14 +15,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>101</p>
-<!--       <p>123 your address street</p>
-      <p>Hong Kong, SAR</p> -->
+      <p>Hong Kong, SAR</p>
   - align: left
     image: me.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>101</p>
-<!--       <p>123 your address street</p> -->
       <p>Hong Kong, SAR</p>
 ---
