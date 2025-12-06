@@ -20,14 +20,8 @@ redirect_from:
 # 🧑‍🎓 About Me
 + Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> **Please refer to my new homepage: [https://zhidi-lin.github.io/](https://zhidi-lin.github.io/)**
 
-+ This is **Zhidi Lin (林志地)**. I am a Ph.D. student in Computer and Information Engineering at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Feng Yin](https://blsp-group.github.io/) and [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). Prior to my Ph.D. studies, I received my M.Sc. degree from [Xiamen University](https://en.xmu.edu.cn/) in 2019, under the supervision of Prof. Qi Yang and [Prof. Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong). From Aug. 2017 to Mar. 2019, I was a research intern at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD), working with [Prof. Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and [Prof. Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en). 
-+ I am affiliated with the [Bayesian Learning for Signal Processing (BLSP) Group](https://blsp-group.github.io/) of CUHK-Shenzhen, where my research mainly focuses on data-driven modeling, Approximate Bayesian Inference, Gaussian processes, and related applications.
++ This is **Ying Li**. I am a Ph.D. student in Computer and Information Engineering at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Feng Yin](https://blsp-group.github.io/) and [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). Prior to my Ph.D. studies, I received my M.Sc. degree from [Xiamen University](https://en.xmu.edu.cn/) in 2019, under the supervision of Prof. Qi Yang and [Prof. Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong). From Aug. 2017 to Mar. 2019, I was a research intern at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD), working with [Prof. Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and [Prof. Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en). 
 
-## Miscellanies
-- <b>Languages</b> -- Mandarin (native), English (fluent), Hokkien (native)  
-- <b>Sports</b> -- Badminton 🏸, Swimming 🏊‍♂️, ... 
-- <b>Leadership/Community activities</b>  
-  * Residential Tutor, [Diligentia College](https://diligentia.cuhk.edu.cn/en/teacher-search?keywords=&alphabet=All&category=All&academic=All&class_type=All&tag=All&floor=All&page=2), CUHK-Shenzhen, China.
 
 # 🔥 News
 - 2023.02: Paper entitled "[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)" has been accepted by *IEEE ICASSP 2023.*
@@ -93,29 +87,8 @@ Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Feng
  (\* indicates equal contributions).<br>
 
 # 🏫 Services
-* Journal Reviewer of [Signal Processing, Elsevier](https://www.journals.elsevier.com/signal-processing)
-* Conference Reviwer of ICML, NeurIPS, UAI, ICASSP, FUSION
-
-# 👨‍🏫 Teaching
-- Spring 2023: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Dongdong He**
-  
-- Fall 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Feng Yin**
-  
-- Summer 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Chuan Huang**
-  
-- Spring 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
-
-- Fall 2021: Teaching Assistant, CUHK-Shenzhen. Graduate Course, CIE6133/MCE5919 Gaussian Process for Machine Learning and Signal Processing. **Instructor: Prof. Feng Yin**
-
-- Spring 2021: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
-
-- Fall 2020: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT3280 Probability Theory. **Instructor: Prof. Kenneth Shum**
-
-- Spring 2020: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
-
-- Fall 2019: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT3280 Probability Theory. **Instructor: Prof. Kenneth Shum**
-
-- Spring 2017: Teaching Assistant, Xiamen University. Undegrad Course, Algorithm Design & Analysis. **Instructor: Prof. Defu Zhang**
+* Journal Reviewer of TSP
+* Conference Reviewer of ICML, NeurIPS, ICLR, AISTATS, ICASSP, FUSION
 
 <!-- # 🎖 Honors and Awards
 - 2023.01: 2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**.
