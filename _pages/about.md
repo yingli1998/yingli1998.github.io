@@ -66,7 +66,6 @@ Zi Yang*, <b>Ying Li*</b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>A
   
 - <b>[Preventing Model Collapse in Gaussian Process Latent Variable Models](https://proceedings.mlr.press/v235/li24as)</b><br>
 <b>Ying Li&ast;</b>, Zhidi Lin&ast;, Feng Yin, Michael Minyi Zhang. <em>International Conference on Machine Learning (ICML)</em>, 2024. <br>
-(&ast; indicates equal contributions).<br>
 
 - <b>[Overcoming posterior collapse in variational autoencoders via EM-type training](https://ieeexplore.ieee.org/abstract/document/10096746)</b><br>
 <b>Ying Li</b>, Lei Cheng, Feng Yin, Michael Minyi Zhang, Sergios Theodoridis. <em>ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
