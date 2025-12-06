@@ -64,6 +64,9 @@ Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transac
 - <b>[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://openreview.net/pdf/d7d7653eb7dd26cf81805f39cd66c6c379be15ad.pdf)</b><br>
 Zi Yang*, <b>Ying Li*</b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
 
+- - **[Preventing Model Collapse in Gaussian Process Latent Variable Models](https://proceedings.mlr.press/v235/li24as.html)**  
+  **Ying Li**\*, Zhidi Lin\*, Feng Yin, Michael Minyi Zhang. *International Conference on Machine Learning (ICML)*, 2024.
+
 - <b>[Overcoming posterior collapse in variational autoencoders via EM-type training](https://ieeexplore.ieee.org/abstract/document/10096746)</b><br>
 <b>Ying Li</b>, Lei Cheng, Feng Yin, Michael Minyi Zhang, Sergios Theodoridis. <em>ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
 
