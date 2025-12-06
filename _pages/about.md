@@ -32,16 +32,16 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
  
 ## Manuscript 
 - <b>cGPSSM: A Continuous-Time Gaussian Process State-Space Model with Latent SDEs</b><br>
-<b>Ying Li</b>, Zi Yang, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić. <em>Manuscript</em>. <br>
+<b>Ying Li</b>, Zi Yang, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić. <br>
 
 - <b>On Model Collapse in Gaussian Process Latent Variable Models</b><br>
-<b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Feng Yin, Petar M. Djurić. <em>Manuscript</em>. <br>
+<b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Feng Yin, Petar M. Djurić. <br>
 
 - <b>Revisiting nonstationary kernel design for multioutput Gaussian processes</b><br>
-Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. <em>Manuscript</em>, 2025. <br>
+Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. 2025. <br>
 
 - <b>Random feature Gaussian process attention: Linear-time probabilistic attention with calibrated uncertainty</b><br>
-Amir Mohammad Mahfoozi, Zi Yang, <b>Ying Li</b>, Michael Minyi Zhang. <em>Manuscript</em>, 2025, in review. <br>
+Amir Mohammad Mahfoozi, Zi Yang, <b>Ying Li</b>, Michael Minyi Zhang. 2025. <br>
 
 ## Journal
 - <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309)</b><br>
