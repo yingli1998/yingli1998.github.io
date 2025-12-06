@@ -54,10 +54,10 @@ Zhidi Lin, <b>Ying Li</b>, Feng Yin, Juan Maroñas, Alexandre H Thiéry. <em>IEE
 Kai Li, <b>Ying Li</b>, Lei Cheng, Zhi-Quan Luo. <em>IEEE Transactions on Wireless Communications</em>, 2024. <br>
 
 - <b>[Online/Offline Learning to Enable Robust Beamforming: Limited Feedback Meets Deep Generative Models](https://arxiv.org/abs/2404.06055)</b><br>
-<b>Ying Li</b>, Zhidi Lin, Kai Li, Michael Minyi Zhang. <em>Journal of Communications and Networks (JCN)</em>. <br>
+<b>Ying Li</b>, Zhidi Lin, Kai Li, Michael Minyi Zhang. <em>Journal of Communications and Networks (JCN)</em>, 2025. <br>
 
 - <b>[Downlink channel covariance matrix reconstruction for FDD massive MIMO systems with limited feedback](https://ieeexplore.ieee.org/abstract/document/10400462)</b><br>
-Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transactions on Signal Processing</em>. <br>
+Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transactions on Signal Processing</em>, 2024. <br>
 
 
 ## Conference
