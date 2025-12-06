@@ -18,18 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> **Please refer to my new homepage: [https://zhidi-lin.github.io/](https://zhidi-lin.github.io/)**
-
-+ This is **Ying Li**. I am a Ph.D. student in Computer and Information Engineering at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Feng Yin](https://blsp-group.github.io/) and [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). Prior to my Ph.D. studies, I received my M.Sc. degree from [Xiamen University](https://en.xmu.edu.cn/) in 2019, under the supervision of Prof. Qi Yang and [Prof. Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong). From Aug. 2017 to Mar. 2019, I was a research intern at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD), working with [Prof. Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and [Prof. Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en). 
-
+This is **Ying Li**. I am currently a Research Fellow at the National University of Singapore (NUS), working under the supervision of [Prof. Alexandre Thiéry](https://alexxthiery.github.io/) and [Prof. Jeremy Heng](https://sites.google.com/view/jeremyheng/). I obtained my Ph.D. degree from the School of Computing and Data Science at The University of Hong Kong in 2025, under the supervision of [Prof. Michael Zhang](https://michaelzhang01.github.io/). Prior to that, I received my M.Phil. degree from The Chinese University of Hong Kong, Shenzhen in 2022 and my B.Eng. degree from Shandong University in 2019. My research interests include Bayesian nonparametrics, Bayesian deep learning, and their applications to neuroscience.
 
 # 🔥 News
-- 2023.02: Paper entitled "[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)" has been accepted by *IEEE ICASSP 2023.*
-- 2022.05: Paper entitled "[Gaussian Process Regression with Grid Spectral Mixture Kernel: Distributed Learning for Multidimensional Data](<https://ieeexplore.ieee.org/document/9841347>)" has been accepted by *IEEE FUSION 2022*. 
-- 2022.01.05: I pass the Ph.D. Qualifying Examination and become a **Ph.D. candidate**.
-- 2021.02: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been accepted by *IEEE ICASSP 2021.*
-- 2020.11.06: Review paper (**29-page**) entitled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
-- 2020.05: Paper entitled "[An Interpretable and Sample Efficient Deep Kernel for Gaussian Process](<http://proceedings.mlr.press/v124/dai20a.html>)" has been accepted by *UAI 2020*.
+- 2025.12.05: Paper entitled "[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309)" has been accepted by *IEEE Transactions on Signal Processing (TSP)*.  
+- 2025.09.25: Paper entitled "[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://openreview.net/pdf/d7d7653eb7dd26cf81805f39cd66c6c379be15ad.pdf)" has been accepted by *NeurIPS 2025*.  
+- 2025.07.12: Paper entitled "[Scalable Random Feature Latent Variable Models](https://ieeexplore.ieee.org/abstract/document/11081940)" has been accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
 
 
 # 📚 Publications 
