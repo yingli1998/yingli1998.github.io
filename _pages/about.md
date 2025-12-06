@@ -37,8 +37,6 @@ redirect_from:
 - 2020.11.06: Review paper (**29-page**) entitled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
 - 2020.05: Paper entitled "[An Interpretable and Sample Efficient Deep Kernel for Gaussian Process](<http://proceedings.mlr.press/v124/dai20a.html>)" has been accepted by *UAI 2020*.
 
-# 💻 Projects
-- coming soon
 
 # 📚 Publications 
 
