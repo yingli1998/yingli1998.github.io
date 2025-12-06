@@ -37,10 +37,10 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
 - <b>On Model Collapse in Gaussian Process Latent Variable Models</b><br>
 <b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Feng Yin, Petar M. Djurić. 2025.<br>
 
-- <b>Revisiting nonstationary kernel design for multioutput Gaussian processes</b><br>
+- <b>Revisiting Nonstationary Kernel Design for Multioutput Gaussian Processes</b><br>
 Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. 2025. <br>
 
-- <b>Random feature Gaussian process attention: Linear-time probabilistic attention with calibrated uncertainty</b><br>
+- <b>Random Feature Gaussian Process Attention: Linear-Time Probabilistic Attention with Calibrated Uncertainty</b><br>
 Amir Mohammad Mahfoozi, Zi Yang, <b>Ying Li</b>, Michael Minyi Zhang. 2025. <br>
 
 ## Journal
