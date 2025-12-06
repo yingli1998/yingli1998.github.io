@@ -31,7 +31,17 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
  (\* indicates equal contributions, † indicates corresponding author).<br> 
  
 ## Manuscript 
+- <b>cGPSSM: A Continuous-Time Gaussian Process State-Space Model with Latent SDEs</b><br>
+<b>Ying Li</b>, Zi Yang, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić. <em>Manuscript</em>. <br>
 
+- <b>On Model Collapse in Gaussian Process Latent Variable Models</b><br>
+<b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Feng Yin, Petar M. Djurić. <em>Manuscript</em>. <br>
+
+- <b>Revisiting nonstationary kernel design for multioutput Gaussian processes</b><br>
+Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. <em>Manuscript</em>, 2025. <br>
+
+- <b>Random feature Gaussian process attention: Linear-time probabilistic attention with calibrated uncertainty</b><br>
+Amir Mohammad Mahfoozi, Zi Yang, <b>Ying Li</b>, Michael Minyi Zhang. <em>Manuscript</em>, 2025, in review. <br>
 
 ## Journal
 - <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309)</b><br>
@@ -55,7 +65,7 @@ Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transac
 Zi Yang*, <b>Ying Li*</b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
   
 - <b>[Preventing Model Collapse in Gaussian Process Latent Variable Models](https://proceedings.mlr.press/v235/li24as.html)</b><br>
-<b>Ying Li<sup>*</sup></b>, Zhidi Lin<sup>*</sup>, Feng Yin, Michael Minyi Zhang. <em>International Conference on Machine Learning (ICML)</em>, 2024. <br>
+<b>Ying Li*</b>, Zhidi Lin*, Feng Yin, Michael Minyi Zhang. <em>International Conference on Machine Learning (ICML)</em>, 2024. <br>
 
 - <b>[Overcoming posterior collapse in variational autoencoders via EM-type training](https://ieeexplore.ieee.org/abstract/document/10096746)</b><br>
 <b>Ying Li</b>, Lei Cheng, Feng Yin, Michael Minyi Zhang, Sergios Theodoridis. <em>ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
@@ -67,7 +77,7 @@ Zi Yang*, <b>Ying Li*</b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>A
 Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</em>, 2021. <br>
 
 - <b>[Pushing the limit of type I codebook for FDD massive MIMO beamforming: A channel covariance reconstruction approach](https://ieeexplore.ieee.org/abstract/document/9414376)</b><br>
-Kai Li<sup>*</sup>, <b>Ying Li<sup>*</sup></b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pp. 4785–4789, 2021. <br>
+Kai Li*, <b>Ying Li*</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pp. 4785–4789, 2021. <br>
 
 # 🏫 Services
 * Journal Reviewer of TSP
