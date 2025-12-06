@@ -32,10 +32,10 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
  
 ## Manuscript 
 - <b>cGPSSM: A Continuous-Time Gaussian Process State-Space Model with Latent SDEs</b><br>
-<b>Ying Li</b>, Zi Yang, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić. <br>
+<b>Ying Li</b>, Zi Yang, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić. 2025.<br>
 
 - <b>On Model Collapse in Gaussian Process Latent Variable Models</b><br>
-<b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Feng Yin, Petar M. Djurić. <br>
+<b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Feng Yin, Petar M. Djurić. 2025.<br>
 
 - <b>Revisiting nonstationary kernel design for multioutput Gaussian processes</b><br>
 Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. 2025. <br>
