@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ying LI"
-  avatar           : "images/me.jpeg"
+  avatar           : "images/profile.jpeg"
   bio              : 
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=mQQxodAAAAAJ&gmla=AJsN-F6CGw8lAhRFck_3cZ4GNr08C_nKG0Qp0mxfe37NavqPJMwCtth1RAM_vRz-yQIvz-FQesAlnhrYtmxiwRSvZyV346VtWka5O74C4isxgacQL0pCvhe4obe1gka5vo5ZIWhGQX_a"
-  email            : "zhidilin@link.cuhk.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhidi-Lin"
+  email            : "ying-li@nus.edu.sg"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhidilin"
+  github           : "yingli1998"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhidi-lin/" # e.g., "linkedin username"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-6673-511X"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
