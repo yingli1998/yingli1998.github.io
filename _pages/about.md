@@ -37,22 +37,22 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
 - <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309)</b><br>
 Zhidi Lin, <b>Ying Li</b>, Feng Yin, Juan Maroñas, Alexandre H Thiéry. <em>IEEE Transactions on Signal Processing</em>, 2025 (to appear). <br>
 
--<b>[Scalable Random Feature Latent Variable Models](https://ieeexplore.ieee.org/abstract/document/11081940)</b><br>
+- <b>[Scalable Random Feature Latent Variable Models](https://ieeexplore.ieee.org/abstract/document/11081940)</b><br>
 <b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, 2025 (to appear). <br>
 
--<b>[Enhancing Multi-Stream Beamforming Through CQIs For 5G NR FDD Massive MIMO Communications: A Tuning-Free Scheme](https://ieeexplore.ieee.org/abstract/document/10678845)</b><br>
+- <b>[Enhancing Multi-Stream Beamforming Through CQIs For 5G NR FDD Massive MIMO Communications: A Tuning-Free Scheme](https://ieeexplore.ieee.org/abstract/document/10678845)</b><br>
 Kai Li, <b>Ying Li</b>, Lei Cheng, Zhi-Quan Luo. <em>IEEE Transactions on Wireless Communications</em>, 2024. <br>
 
--<b>[Online/Offline Learning to Enable Robust Beamforming: Limited Feedback Meets Deep Generative Models](https://arxiv.org/abs/2404.06055)</b><br>
+- <b>[Online/Offline Learning to Enable Robust Beamforming: Limited Feedback Meets Deep Generative Models](https://arxiv.org/abs/2404.06055)</b><br>
 <b>Ying Li</b>, Zhidi Lin, Kai Li, Michael Minyi Zhang. <em>Journal of Communications and Networks (JCN)</em>. <br>
 
--<b>[Downlink channel covariance matrix reconstruction for FDD massive MIMO systems with limited feedback](https://ieeexplore.ieee.org/abstract/document/10400462)</b><br>
+- <b>[Downlink channel covariance matrix reconstruction for FDD massive MIMO systems with limited feedback](https://ieeexplore.ieee.org/abstract/document/10400462)</b><br>
 Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transactions on Signal Processing</em>. <br>
 
 
 ## Conference
-- <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
-<b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu and Shuguang Cui. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
+- <b>[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://openreview.net/pdf/d7d7653eb7dd26cf81805f39cd66c6c379be15ad.pdf)</b><br>
+Zi Yang<sup>*</sup>, <b>Ying Li<sup>*</sup></b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
   
 - <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
 Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>The 25th International Conference on Information Fusion (FUSION)</em>, 2022. <br>
