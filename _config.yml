@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhidi LIN"
-description              : "PhD Candidate @ CUHK(SZ)"
-repository               : "zhidilin/zhidilin.github.io"
+title                    : "Ying Li"
+description              : "Research Fellow @ NUS"
+repository               : "yingli1998/yingli1998.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhidi LIN"
-  avatar           : "images/profile.jpeg"
+  name             : "Ying LI"
+  avatar           : "images/me.jpeg"
   bio              : 
-  location         : "Shenzhen, China"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8BmRXqMAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=mQQxodAAAAAJ&gmla=AJsN-F6CGw8lAhRFck_3cZ4GNr08C_nKG0Qp0mxfe37NavqPJMwCtth1RAM_vRz-yQIvz-FQesAlnhrYtmxiwRSvZyV346VtWka5O74C4isxgacQL0pCvhe4obe1gka5vo5ZIWhGQX_a"
   email            : "zhidilin@link.cuhk.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zhidi-Lin"
   uri              :
