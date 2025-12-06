@@ -28,28 +28,26 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
 
 # 📚 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+ (\* indicates equal contributions, † indicates corresponding author).<br> 
+ 
+## Manuscript 
 
-[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/9755128)
-
-**Zhidi Lin**, Lei Cheng, Feng Yin, Lexi Xu, Shuguang Cui
-
-[**Project**](https://ieeexplore.ieee.org/document/10095784) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
-- We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
-- The detection accuracy and the false alarm rate are much lower than other effective methods.
-- We also reduced the computation complexity to $$O(n)$$.
-</div></div> -->
 
 ## Journal
-- <b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing](<https://ieeexplore.ieee.org/abstract/document/9250516>)</b><br>
-Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
+- <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309)</b><br>
+Zhidi Lin, <b>Ying Li</b>, Feng Yin, Juan Maroñas, Alexandre H Thiéry. <em>IEEE Transactions on Signal Processing</em>, 2025 (to appear). <br>
 
-- <b>[One-Class classifier based fault detection in distribution systems with varying penetration levels of distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/9141286>)</b><br>
-<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>IEEE Access</em>, vol. 8, pp. 130023-130035, July 2020. <br>
-  
-- <b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://www.mdpi.com/1996-1073/13/1/275>)</b><br>
-<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>Energies</em>, vol. 13, no. 1, pp. 275, January 2020. <br>
+<b>[Scalable Random Feature Latent Variable Models](https://ieeexplore.ieee.org/abstract/document/11081940)</b><br>
+<b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, 2025 (to appear). <br>
+
+<b>[Enhancing Multi-Stream Beamforming Through CQIs For 5G NR FDD Massive MIMO Communications: A Tuning-Free Scheme](https://ieeexplore.ieee.org/abstract/document/10678845)</b><br>
+Kai Li, <b>Ying Li</b>, Lei Cheng, Zhi-Quan Luo. <em>IEEE Transactions on Wireless Communications</em>, 2024. <br>
+
+<b>[Online/Offline Learning to Enable Robust Beamforming: Limited Feedback Meets Deep Generative Models](https://arxiv.org/abs/2404.06055)</b><br>
+<b>Ying Li</b>, Zhidi Lin, Kai Li, Michael Minyi Zhang. <em>Journal of Communications and Networks (JCN)</em>. <br>
+
+<b>[Downlink channel covariance matrix reconstruction for FDD massive MIMO systems with limited feedback](https://ieeexplore.ieee.org/abstract/document/10400462)</b><br>
+Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transactions on Signal Processing</em>. <br>
 
 
 ## Conference
@@ -77,8 +75,6 @@ Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shug
 
 - <b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset](<https://ieeexplore.ieee.org/abstract/document/8641222>)</b><br>
 Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
-  
- (\* indicates equal contributions).<br>
 
 # 🏫 Services
 * Journal Reviewer of TSP
