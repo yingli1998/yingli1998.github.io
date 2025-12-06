@@ -35,10 +35,10 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
 
 ## Journal
 - <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309)</b><br>
-Zhidi Lin, <b>Ying Li</b>, Feng Yin, Juan Maroñas, Alexandre H Thiéry. <em>IEEE Transactions on Signal Processing</em>, 2025 (to appear). <br>
+Zhidi Lin, <b>Ying Li</b>, Feng Yin, Juan Maroñas, Alexandre H Thiéry. <em>IEEE Transactions on Signal Processing</em>, 2025. <br>
 
 - <b>[Scalable Random Feature Latent Variable Models](https://ieeexplore.ieee.org/abstract/document/11081940)</b><br>
-<b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, 2025 (to appear). <br>
+<b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, 2025. <br>
 
 - <b>[Enhancing Multi-Stream Beamforming Through CQIs For 5G NR FDD Massive MIMO Communications: A Tuning-Free Scheme](https://ieeexplore.ieee.org/abstract/document/10678845)</b><br>
 Kai Li, <b>Ying Li</b>, Lei Cheng, Zhi-Quan Luo. <em>IEEE Transactions on Wireless Communications</em>, 2024. <br>
@@ -54,27 +54,20 @@ Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transac
 - <b>[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://openreview.net/pdf/d7d7653eb7dd26cf81805f39cd66c6c379be15ad.pdf)</b><br>
 Zi Yang<sup>*</sup>, <b>Ying Li<sup>*</sup></b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
   
-- <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
-Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>The 25th International Conference on Information Fusion (FUSION)</em>, 2022. <br>
+- <b>[Preventing Model Collapse in Gaussian Process Latent Variable Models](https://proceedings.mlr.press/v235/li24as.html)</b><br>
+<b>Ying Li<sup>*</sup></b>, Zhidi Lin<sup>*</sup>, Feng Yin, Michael Minyi Zhang. <em>International Conference on Machine Learning (ICML)</em>, 2024. <br>
 
-- <b>[Graph neural network for large-scale network localization](<https://ieeexplore.ieee.org/abstract/document/9414520>)  [[code]](<https://github.com/Yanzongzi/GNN-For-localization>)</b><br>
-Wenzhong Yan, Di Jin, <b>Zhidi Lin</b>, Feng Yin. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2021. <br>
+- <b>[Overcoming posterior collapse in variational autoencoders via EM-type training](https://ieeexplore.ieee.org/abstract/document/10096746)</b><br>
+<b>Ying Li</b>, Lei Cheng, Feng Yin, Michael Minyi Zhang, Sergios Theodoridis. <em>ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
 
-- <b>[An interpretable and sample efficient deep kernel for Gaussian process](<http://proceedings.mlr.press/v124/dai20a.html>)</b><br>
-Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shuguang Cui. <em> Conference on Uncertainty in Artificial Intelligence (UAI)</em>, 2020. <br>
+- <b>[Digital twin-aided learning to enable robust beamforming: Limited feedback meets deep generative models](https://ieeexplore.ieee.org/abstract/document/9593108)</b><br>
+<b>Ying Li</b>, Kai Li, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</em>, 2021. <br>
 
-- <b>[A flexible approach for human activity recognition based on broad learning system](<https://dl.acm.org/doi/abs/10.1145/3318299.3318318>)</b><br>
-<b>Zhidi Lin</b>, Haipeng Chen, Qi Yang, Xuemin Hong. <em> International Conference on Machine Learning and Computing (ICMLC)</em>, 2019. <br>
+- <b>[Learning enhanced beamforming vector from CQIs in 5G NR FDD massive MIMO systems: A tuning-free approach](https://ieeexplore.ieee.org/abstract/document/9593098)</b><br>
+Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</em>, 2021. <br>
 
-
-- <b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://ieeexplore.ieee.org/document/8974949>)</b><br>
-<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Sustainable Power and Energy Conference, (iSPEC)</em>, 2019. <br>
-
-- <b>[One-class classifier based fault detection in distribution systems with distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/8646526>)</b><br>
-<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Global Conference on Signal and Information Processing (GlobalSIP)</em>, 2018. <br>
-
-- <b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset](<https://ieeexplore.ieee.org/abstract/document/8641222>)</b><br>
-Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
+- <b>[Pushing the limit of type I codebook for FDD massive MIMO beamforming: A channel covariance reconstruction approach](https://ieeexplore.ieee.org/abstract/document/9414376)</b><br>
+Kai Li<sup>*</sup>, <b>Ying Li<sup>*</sup></b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pp. 4785–4789, 2021. <br>
 
 # 🏫 Services
 * Journal Reviewer of TSP
