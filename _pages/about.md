@@ -37,16 +37,16 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
 - <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309)</b><br>
 Zhidi Lin, <b>Ying Li</b>, Feng Yin, Juan Maroñas, Alexandre H Thiéry. <em>IEEE Transactions on Signal Processing</em>, 2025 (to appear). <br>
 
-<b>[Scalable Random Feature Latent Variable Models](https://ieeexplore.ieee.org/abstract/document/11081940)</b><br>
+-<b>[Scalable Random Feature Latent Variable Models](https://ieeexplore.ieee.org/abstract/document/11081940)</b><br>
 <b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, 2025 (to appear). <br>
 
-<b>[Enhancing Multi-Stream Beamforming Through CQIs For 5G NR FDD Massive MIMO Communications: A Tuning-Free Scheme](https://ieeexplore.ieee.org/abstract/document/10678845)</b><br>
+-<b>[Enhancing Multi-Stream Beamforming Through CQIs For 5G NR FDD Massive MIMO Communications: A Tuning-Free Scheme](https://ieeexplore.ieee.org/abstract/document/10678845)</b><br>
 Kai Li, <b>Ying Li</b>, Lei Cheng, Zhi-Quan Luo. <em>IEEE Transactions on Wireless Communications</em>, 2024. <br>
 
-<b>[Online/Offline Learning to Enable Robust Beamforming: Limited Feedback Meets Deep Generative Models](https://arxiv.org/abs/2404.06055)</b><br>
+-<b>[Online/Offline Learning to Enable Robust Beamforming: Limited Feedback Meets Deep Generative Models](https://arxiv.org/abs/2404.06055)</b><br>
 <b>Ying Li</b>, Zhidi Lin, Kai Li, Michael Minyi Zhang. <em>Journal of Communications and Networks (JCN)</em>. <br>
 
-<b>[Downlink channel covariance matrix reconstruction for FDD massive MIMO systems with limited feedback](https://ieeexplore.ieee.org/abstract/document/10400462)</b><br>
+-<b>[Downlink channel covariance matrix reconstruction for FDD massive MIMO systems with limited feedback](https://ieeexplore.ieee.org/abstract/document/10400462)</b><br>
 Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transactions on Signal Processing</em>. <br>
 
 
