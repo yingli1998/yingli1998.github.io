@@ -31,6 +31,9 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
  (\* indicates equal contributions, † indicates corresponding author).<br> 
  
 ## Manuscript 
+- <b>A Continuous-Time Perspective on Deep Gaussian Processes</b><br>
+<b>Ying Li</b>, Sanyou Wu, Zhidi Lin, Zi Yang, Qiaochu Xu, Michael Minyi Zhang, Alexandre H. Thiery, Petar M. Djurić.<br>
+
 - <b>cGPSSM: A Continuous-Time Gaussian Process State-Space Model with Latent SDEs</b><br>
 <b>Ying Li</b>, Zi Yang, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić. 2025.<br>
 
