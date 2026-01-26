@@ -21,6 +21,7 @@ redirect_from:
 This is **Ying Li**. I am currently a Research Fellow at the National University of Singapore (NUS), working under the supervision of [Prof. Alexandre Thiéry](https://alexxthiery.github.io/) and [Prof. Jeremy Heng](https://sites.google.com/view/jeremyheng/). I obtained my Ph.D. degree from the School of Computing and Data Science at The University of Hong Kong in 2025, under the supervision of [Prof. Michael Zhang](https://michaelzhang01.github.io/). Prior to that, I received my M.Phil. degree from The Chinese University of Hong Kong, Shenzhen in 2022 and my B.Eng. degree from Shandong University in 2019. My research interests include Bayesian nonparametrics, Bayesian deep learning, and their applications to neuroscience.
 
 # 🔥 News
+- 2026.01.26: Paper entitled "[Revisiting Nonstationary Kernel Design for Multioutput Gaussian Processes]" has been accepted by *ICLR 2026*. 
 - 2025.12.05: Paper entitled "[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309)" has been accepted by *IEEE Transactions on Signal Processing (TSP)*.  
 - 2025.09.25: Paper entitled "[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://openreview.net/pdf/d7d7653eb7dd26cf81805f39cd66c6c379be15ad.pdf)" has been accepted by *NeurIPS 2025*.  
 - 2025.07.12: Paper entitled "[Scalable Random Feature Latent Variable Models](https://ieeexplore.ieee.org/abstract/document/11081940)" has been accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
@@ -39,9 +40,6 @@ This is **Ying Li**. I am currently a Research Fellow at the National University
 
 - <b>On Model Collapse in Gaussian Process Latent Variable Models</b><br>
 <b>Ying Li</b>, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Feng Yin, Petar M. Djurić. 2025.<br>
-
-- <b>Revisiting Nonstationary Kernel Design for Multioutput Gaussian Processes</b><br>
-Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. 2025. <br>
 
 - <b>Random Feature Gaussian Process Attention: Linear-Time Probabilistic Attention with Calibrated Uncertainty</b><br>
 Amir Mohammad Mahfoozi, Zi Yang, <b>Ying Li</b>, Michael Minyi Zhang. 2025. <br>
@@ -64,6 +62,9 @@ Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transac
 
 
 ## Conference
+- <b>Revisiting Nonstationary Kernel Design for Multioutput Gaussian Processes</b><br>
+Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. 2025. <em>International Conference on Learning Representations (ICLR)</em><br>
+
 - <b>[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://openreview.net/pdf/d7d7653eb7dd26cf81805f39cd66c6c379be15ad.pdf)</b><br>
 Zi Yang*, <b>Ying Li*</b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
 
