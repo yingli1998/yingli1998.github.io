@@ -63,7 +63,7 @@ Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transac
 
 ## Conference
 - <b>[Revisiting Nonstationary Kernel Design for Multioutput Gaussian Processes](https://openreview.net/forum?id=vFfujX5Ygn&referrer=%5Bthe%20profile%20of%20Ying%20Li%5D(%2Fprofile%3Fid%3D))</b><br>
-Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. 2025. <em>International Conference on Learning Representations (ICLR)</em>, 2026.<br>
+Qiaochu Xu, Zi Yang, <b>Ying Li†</b>, Michael Minyi Zhang, Pablo M. Olmos. <em>International Conference on Learning Representations (ICLR)</em>, 2026.<br>
 
 - <b>[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://openreview.net/pdf/d7d7653eb7dd26cf81805f39cd66c6c379be15ad.pdf)</b><br>
 Zi Yang*, <b>Ying Li*</b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
@@ -72,7 +72,7 @@ Zi Yang*, <b>Ying Li*</b>, Zhidi Lin, Michael Minyi Zhang, Pablo M. Olmos. <em>A
   **Ying Li**\*, Zhidi Lin\*, Feng Yin, Michael Minyi Zhang. *International Conference on Machine Learning (ICML)*, 2024.
 
 - <b>[Overcoming posterior collapse in variational autoencoders via EM-type training](https://ieeexplore.ieee.org/abstract/document/10096746)</b><br>
-<b>Ying Li</b>, Lei Cheng, Feng Yin, Michael Minyi Zhang, Sergios Theodoridis. <em>ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
+<b>Ying Li</b>, Lei Cheng, Feng Yin, Michael Minyi Zhang, Sergios Theodoridis. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
 
 - <b>[Digital twin-aided learning to enable robust beamforming: Limited feedback meets deep generative models](https://ieeexplore.ieee.org/abstract/document/9593108)</b><br>
 <b>Ying Li</b>, Kai Li, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</em>, 2021. <br>
