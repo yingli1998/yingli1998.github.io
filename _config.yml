@@ -65,6 +65,8 @@ include:
   - _pages
   - files
 exclude:
+  - preview
+  - DESIGN-NOTES.md
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
@@ -161,3 +163,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Local design preview is not part of the published site.
