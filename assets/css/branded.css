@@ -6,3 +6,5 @@ nav a{position:relative;padding:8px 0}nav a[aria-current=page]{color:var(--accen
 
 /* Compact portrait across desktop and mobile. */
 .portrait-area{width:100%;max-width:220px;justify-self:center}.portrait-frame img{height:180px}.portrait-note{font-size:11px;line-height:1.5;margin-top:18px}.portrait-label{font-size:10px;left:12px;right:12px}.portrait-label span{font-size:8px;letter-spacing:1px}.orbit{width:55px;height:55px;right:-2px;top:-10px}@media(max-width:620px){.portrait-area{max-width:190px}.portrait-frame img{height:150px}.orbit{width:45px;height:45px;right:0;top:-5px}}
+
+.wordmark{letter-spacing:-1.5px}
