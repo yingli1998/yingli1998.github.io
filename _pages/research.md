@@ -8,10 +8,6 @@ nav: research
 <section class="page-intro"><p class="eyebrow">RESEARCH / PUBLICATIONS</p><h1>Ideas into papers<span class="name-dot">.</span></h1><p>Bayesian statistics, Bayesian deep learning, and test-time scaling for LLMs and agents.</p></section><section class="publications" id="publications"><div class="section-heading"><div><h2>Publications</h2></div><a class="text-link" href="https://scholar.google.com/citations?user=mQQxodAAAAAJ">Google Scholar ↗</a></div><div class="filters" aria-label="Filter publications" hidden><button type="button" data-filter="all" aria-pressed="true">All publications</button><button type="button" data-filter="manuscript" aria-pressed="false">Manuscripts</button><button type="button" data-filter="journal" aria-pressed="false">Journals</button><button type="button" data-filter="conference" aria-pressed="false">Conferences</button></div><p class="pub-note">* Equal contribution · † Corresponding author</p><div class="publication-group" data-category="manuscript"><h3>Manuscript</h3>
 <ul>
   <li>
-    <p><b>A Continuous-Time Perspective on Deep Gaussian Processes</b><br />
-<b>Ying Li</b>, Sanyou Wu, Zhidi Lin, Zi Yang, Qiaochu Xu, Michael Minyi Zhang, Alexandre H. Thiery, Petar M. Djurić. 2025.<br /></p>
-  </li>
-  <li>
     <p><b>cGPSSM: A Continuous-Time Gaussian Process State-Space Model with Latent SDEs</b><br />
 <b>Ying Li</b>, Zi Yang, Zhidi Lin, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić. 2025.<br /></p>
   </li>
