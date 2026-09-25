@@ -49,10 +49,10 @@ Kai Li, <b>Ying Li</b>, Lei Cheng, Qingjiang Shi, Zhi-Quan Luo. <em>IEEE Transac
 <ul>
   <li id="continuous-depth-dgp"><p><b>Continuous-depth Deep Gaussian Processes</b><br />
 <b>Ying Li</b>, S. Wu, Z. Yang, Q. Xu, Y. Liu, Z. Lin, M. M. Zhang, P. Djurić and A. H. Thiery.<br />
-<em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2026. <strong>First Author</strong>.</p></li>
+<em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2026.</p></li>
   <li id="flow-spectral-attention"><p><b>Flow-based Spectral Kernel Learning for Nonstationary Attention</b><br />
 Z. Yang*, <b>Ying Li*</b>, A. Lancho, D. C. Larese, P. M. Olmos and M. M. Zhang.<br />
-<em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2026. <strong>Joint First Author</strong>.</p></li>
+<em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2026.</p></li>
 
   <li>
     <p><b><a href="https://openreview.net/forum?id=vFfujX5Ygn&amp;referrer=%5Bthe%20profile%20of%20Ying%20Li%5D(%2Fprofile%3Fid%3D)">Revisiting Nonstationary Kernel Design for Multioutput Gaussian Processes</a></b><br />
